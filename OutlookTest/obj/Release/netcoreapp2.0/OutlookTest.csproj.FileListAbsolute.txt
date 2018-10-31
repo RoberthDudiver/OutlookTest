@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\O365GraphTest\OutlookTest\bin\Release\netcoreapp2.0\OutlookTest.dll.config
+C:\Users\user\source\repos\O365GraphTest\OutlookTest\bin\Release\netcoreapp2.0\OutlookTest.deps.json
+C:\Users\user\source\repos\O365GraphTest\OutlookTest\bin\Release\netcoreapp2.0\OutlookTest.dll
+C:\Users\user\source\repos\O365GraphTest\OutlookTest\bin\Release\netcoreapp2.0\OutlookTest.pdb
+C:\Users\user\source\repos\O365GraphTest\OutlookTest\obj\Release\netcoreapp2.0\OutlookTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\O365GraphTest\OutlookTest\obj\Release\netcoreapp2.0\OutlookTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\O365GraphTest\OutlookTest\obj\Release\netcoreapp2.0\OutlookTest.AssemblyInfo.cs
+C:\Users\user\source\repos\O365GraphTest\OutlookTest\obj\Release\netcoreapp2.0\OutlookTest.dll
+C:\Users\user\source\repos\O365GraphTest\OutlookTest\obj\Release\netcoreapp2.0\OutlookTest.pdb
+C:\Users\user\source\repos\O365GraphTest\OutlookTest\bin\Release\netcoreapp2.0\OutlookTest.runtimeconfig.json
+C:\Users\user\source\repos\O365GraphTest\OutlookTest\bin\Release\netcoreapp2.0\OutlookTest.runtimeconfig.dev.json

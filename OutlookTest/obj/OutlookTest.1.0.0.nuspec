@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OutlookTest</id>
+    <version>1.0.0</version>
+    <authors>OutlookTest</authors>
+    <owners>OutlookTest</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Microsoft.Graph" version="1.11.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Clients.ActiveDirectory" version="3.19.8" exclude="Build,Analyzers" />
+        <dependency id="Nito.AsyncEx.Core" version="1.0.0-rc2-001" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="106.4.2" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="4.5.0" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\source\repos\O365GraphTest\OutlookTest\bin\Release\netcoreapp2.0\win10-x64\OutlookTest.dll" target="lib\netcoreapp2.0\OutlookTest.dll" />
+  </files>
+</package>
